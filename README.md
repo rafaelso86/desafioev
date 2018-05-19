@@ -1,7 +1,6 @@
 ## Painel CEP
 
 ## Autor: Rafael da Silva oliveira
-## E-mail: rafaelso86@gmai.com 
 
 Esse repositório armazena um projeto em VueJS de um painel para adicionar, editar e excluir dados de endereço baseado em um CEP.
 
